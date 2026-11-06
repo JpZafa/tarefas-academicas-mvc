@@ -1,0 +1,13 @@
+ATIVIDADE — Desenvolvimento de aplicação em Node.js com MVC
+Projeto: Agenda Acadêmica
+
+Estudante: [PREENCHA SEU NOME]
+
+Link do GitHub com o código-fonte:
+[COLE AQUI O LINK REAL DO REPOSITÓRIO]
+
+Link do vídeo explicativo com demonstração do sistema, código-fonte e narração:
+[COLE AQUI O LINK REAL DO VÍDEO]
+
+ATENÇÃO: substitua os campos acima antes de enviar este arquivo à instituição.
+Verifique se o professor consegue acessar os dois links.
