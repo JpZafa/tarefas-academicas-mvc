@@ -1,0 +1,8 @@
+{
+  "name": "tarefas-academicas-mvc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerenciador de tarefas acadêmicas em Node.js com MVC e armazenamento em memória",
+  "scripts": { "start": "node src/server.js", "test": "node --test" },
+  "engines": { "node": ">=22" }
+}
